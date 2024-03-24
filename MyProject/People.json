@@ -1,0 +1,30 @@
+{
+    '?xml': {
+      '@version': '1.0',
+      '@standalone': 'no'
+    },
+    'root': {
+      'person': [
+        {
+          '@id': '1',
+          'name': 'Alexandr',
+          'age': '25'
+        },
+        {
+          '@id': '2',
+          'name': 'Boris',
+          'age': '27'
+        },
+        {
+            '@id': '3',
+            'name': 'Lily',
+            'age': '23'
+        },
+        {
+            '@id': '4',
+            'name': 'Mary',
+            'age': '24'
+        }
+      ]
+    }
+  }
